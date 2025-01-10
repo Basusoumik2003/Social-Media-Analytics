@@ -11,3 +11,9 @@
 3. Add the Dataset in file
 4. Test in Playground
 5. Generate Authication Token from langflow
+
+# Technology Stack
+## LAngflow
+## DataStax Astra DB
+## Python
+## Pandas
